@@ -16,7 +16,7 @@ Interactive elements and animations
 
 Installation & Usage
 
-git clone https://github.com/yourusername/your-repository.git
+git clone 
 cd your-repository
 open index.html in browser
 
